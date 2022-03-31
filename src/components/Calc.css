@@ -1,0 +1,38 @@
+.bttnn {
+  border: 1px solid black;
+  border-radius: 1rem;
+  margin-inline-end: 0.4rem;
+  background-color: #f8f8f8;
+  font-weight: bolder;
+  color: black;
+}
+
+.nav-pills .nav-link.bttn.active,
+.nav-pills .show > .nav-link {
+  color: #000;
+  font-weight: 600;
+  background-color: #fceb75 !important;
+  border-radius: 20px;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #000;
+  font-weight: 600;
+  background-color: #fffaa9 !important;
+  border-radius: 10px !important;
+}
+.form-check-input[type="checkbox"] {
+  background-color: #f8c400;
+}
+.crd {
+  max-width: 35rem;
+  margin: 13vh auto;
+  border: 2px solid black;
+}
+.nav-link {
+  color: #f8f8f8;
+  background-color: rgb(243, 243, 243) !important;
+  border-radius: 20px !important;
+  margin-right: 0.5rem;
+}
